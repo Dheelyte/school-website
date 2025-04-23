@@ -14,7 +14,7 @@ const Location = () => {
                             <p className="list-text">
                                 12, Anuoluwapo Street, Off Kajola Road, Obawole, Ifako-Ijaye, Lagos.
                             </p>
-                            <a className="direction-link" href="">Get directions</a>
+                            <a className="direction-link" href="https://maps.app.goo.gl/DyNcXRMJqbpPixLcA">Get directions</a>
                         </div>
                     </li>
                     <li>
@@ -34,7 +34,7 @@ const Location = () => {
                             <p className="list-text">
                                 brilliantesteemschool25@gmail.com
                             </p>
-                            <a className="direction-link" href="mailto:besteemschool@gmail.com">Email us</a>
+                            <a className="direction-link" href="mailto:brilliantesteemschool25@gmail.com">Email us</a>
                         </div>
                     </li>
             </div>
