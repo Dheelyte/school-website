@@ -15,7 +15,7 @@ const Info = () => {
                         <div className="item">
                             <h5 className="list-header">Public Examinations</h5>
                             <p className="list-text">
-                                As a Lagos State Government-approved School, we are registered with the Lagos tate Examinations Board. Thus, our grade six pupils are usually registered for CASS/PLACEMENT EXAMS that leads to the award of the FIRST SCHOOL LEAVING CERTIFICATE
+                                As a Lagos State Government-approved School, we are registered with the Lagos State Examinations Board. Thus, our grade six pupils are usually registered for CASS/PLACEMENT EXAMS that leads to the award of the FIRST SCHOOL LEAVING CERTIFICATE
                             </p>
                         </div>
                     </li>
